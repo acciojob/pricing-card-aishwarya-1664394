@@ -12,10 +12,14 @@
             align-items: center;
             justify-content: center;
             gap:0px;
-            background-color:darkgrey
+            background-color:darkgrey;
+			box-shadow: 20px 20px gray;
+			padding: 10px;
+			
             
         }
         img{
+			color: white;
           height: 200px;
           width: 100%; 
         }
